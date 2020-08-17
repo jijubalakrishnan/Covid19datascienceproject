@@ -1,0 +1,17 @@
+"","cities","uv_index","testing_numbers","corona_numbers","corona_death","number_of_days_500","number_of_days_first_death","pop_density","case_per_million","death_pecentage_closed_cases"
+"Usa","Newyork",1.4,540252,85612,1301,22,15,36,259,41
+"Spain","Madrid",5,NA,57786,4365,22,17,91,1370,34
+"India","trivandrum",11,25254,761,20,23,26,420,1,22
+"China","Wuhan",5,320000,81340,3292,NA,NA,145,57,4
+"Ghana","Acra",12,NA,136,0,NA,14,354,4,NA
+"UK","London",3.2,104866,11658,578,26,15,274,172,81
+"Korea","Seoul",4,316664,9332,139,7,6,503,182,3
+"Iran","Tehran",5,80000,32332,2378,10,1,52,385,18
+"Ireland","Dublin",2.5,17992,1819,19,19,11,72,368,79
+"Italy","Milan",2,206886,80589,8215,11,6,206,1333,44
+"Kenya","Nairobi",13,NA,31,0,NA,0,94,1,NA
+"Singapore","Singapore",12,NA,683,2,NA,NA,8358,117,1
+"Netherlands","Amsterdam",4,38000,7431,434,13,8,488,434,99
+"Iceland","Reyjavavik",2,9189,802,2,20,23,3,2350,2
+"Thailand","Bangok",12,7084,1136,5,10,21,354,16,6
+"Egypt","Cairo",6,NA,495,24,NA,34,84,5,20
